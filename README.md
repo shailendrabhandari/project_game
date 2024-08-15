@@ -32,7 +32,7 @@ To get started, follow these steps:
 ## Usage
 Once installed, you can play the games by running the following command in your terminal:
 ```bash
-acit_game
+games
 ```
 This will launch a menu where you can choose between the three available games:
 1. **Rock, Paper, Scissors**
