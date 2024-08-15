@@ -71,5 +71,4 @@ ACIT_GAME_Module/
 - **`guess_the_number.py`**: Script for the Guess the Number game.
 - **`tic_tac_toe.py`**: Script for the Tic-Tac-Toe game.
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/shailendrabhandari/project_game/blob/main/LICENSE) file for details.
